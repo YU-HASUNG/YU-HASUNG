@@ -87,7 +87,6 @@
 
 <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
 
   <br/>
   <br/>

@@ -17,14 +17,17 @@
 <img src="https://img.shields.io/badge/Nexon-4285F4?style=flat-square&logo=Nexon&logoColor=white">
 <img src="https://img.shields.io/badge/국립중앙도서관-F80000?style=flat-square&logoColor=white">
 
- 
    <br/>
    <br/>
  
 ### :pencil2: Project log
 
-<a href="https://play.google.com/store/apps/details?id=leopardcat.studio.fcosquad" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+<a href="https://github.com/YU-HASUNG/FCO_SQUAD" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
   <img src="https://play-lh.googleusercontent.com/6VgzDEm8LtdzmPBOxvOD5edO5u1hygO1YmJzXjo5PVbwaNakM5QTdDdHOfXSWONBujg=w240-h480-rw" alt="FCOSquad App" style="width: 60px; height: 60px; object-fit: cover;">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=leopardcat.studio.fcosquad" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+  <img src="https://static.vecteezy.com/system/resources/previews/022/484/501/original/google-play-store-icon-logo-symbol-free-png.png" alt="FCOSquad App" style="width: 60px; height: 60px; object-fit: cover;">
 </a>
 
 ##### 피온 스쿼드 조회
@@ -37,8 +40,12 @@
   <br/>
   <br/>
 
-<a href="https://play.google.com/store/apps/details?id=leopardcat.studio.odkodk" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+<a href="https://github.com/YU-HASUNG/ODK_ODK" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
   <img src="https://play-lh.googleusercontent.com/g_LSQPXBjDC0SCypT5izI4FHf0VojJko5kFcyBwqdoa68IKGyE_Zfwf-dIK1R2dKeQ=w240-h480-rw" alt="OdkOdk App" style="width: 60px; height: 60px; object-fit: cover;">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=leopardcat.studio.odkodk" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+  <img src="https://static.vecteezy.com/system/resources/previews/022/484/501/original/google-play-store-icon-logo-symbol-free-png.png" alt="FCOSquad App" style="width: 60px; height: 60px; object-fit: cover;">
 </a>
 
 ##### 오독오독 - 오늘의 독서
@@ -52,8 +59,12 @@
   <br/>
   <br/>
 
-<a href="https://play.google.com/store/apps/details?id=leopardcat.studio.chitchat" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+<a href="https://github.com/YU-HASUNG/ITALK" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
   <img src="https://play-lh.googleusercontent.com/-C0-iuMeCUA5WPUxaS57Twx-8p9TXtcDMLLmY8m1x9PbojbDQRfcCQKcfXF0mms1o2AS=w240-h480-rw" alt="ChitChat App" style="width: 60px; height: 60px; object-fit: cover;">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=leopardcat.studio.chitchat" target="_blank" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+  <img src="https://static.vecteezy.com/system/resources/previews/022/484/501/original/google-play-store-icon-logo-symbol-free-png.png" alt="FCOSquad App" style="width: 60px; height: 60px; object-fit: cover;">
 </a>
 
 ##### 아이톡 - AI 여자친구와 톡톡

@@ -1,6 +1,8 @@
 <div align="center"> 
 
 ###  :wave: Welcome to LC Studio!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YU-HASUNG&layout=compact)
  
 ###  :clipboard: Once I've Used 
   
